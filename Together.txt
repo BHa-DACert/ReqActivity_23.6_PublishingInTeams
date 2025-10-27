@@ -1,3 +1,6 @@
 This will be a collaboration.
 
 My capstone project will examine Housing trends in the US and compare them to COVID-19 data in 2020 and 2021. The goal is to see how COVID affected the market and predict how housing prices will look in 2030. [Bryant Ha]
+
+For my Capstone project I will analyse how weather patterns across Italy may have influenced COVID-19 between January 2020 and January 2025 and build a predictive and optimisation model for public-heath planning (Christina Leighton)
+
