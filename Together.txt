@@ -4,3 +4,4 @@ My capstone project will examine Housing trends in the US and compare them to CO
 
 For my Capstone project I will analyse how weather patterns across Italy may have influenced COVID-19 between January 2020 and January 2025 and build a predictive and optimisation model for public-heath planning (Christina Leighton)
 
+My capstone project is trying to create a temperature prediction model for SLA 3D by printing using printer logs and thermal camera data. (James Mackay)
