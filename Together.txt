@@ -7,3 +7,5 @@ For my Capstone project I will analyse how weather patterns across Italy may hav
 My capstone project is trying to create a temperature prediction model for SLA 3D by printing using printer logs and thermal camera data. (James Mackay)
 
 My Capstone project is analysing the effects of social media and entertainment applications on staff productivity (Kamil Urbaniak)
+
+My capstone project will analyse the past 5 years of trading data for the leading crypto projects. I will use variables such as Open, Low, Volume, High and Closing prices on a given day to determine if there is a price prediction to be made on a coins price 24hrs later (Jonathan McHale)
