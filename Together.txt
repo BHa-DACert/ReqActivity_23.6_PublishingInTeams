@@ -12,4 +12,4 @@ My capstone project will analyse the past 5 years of trading data for the leadin
 
 My capstone project entails collecting data such as citation and topic frequency from supreme court of canada decisions through the public database Canlii. The goal is to hopefully find some patterns and insights to aid legal research. (Shivam Goel)
 
-For my Capstone Project, I am looking at the effects of GP Access between urban and rural UK Local Authorities on life expectancy. The project also involves depriation scores to run a prescriptive optimisation for GP allocation using NHS and ONS data. (Joe Byrne)
+For my Capstone Project, I am analysing healthcare access across UK Local Authorities, showing how deprivation and urban-rural differences affect outcomes. It includes an optimisation problem for GP allocation. (Joe Byrne)
